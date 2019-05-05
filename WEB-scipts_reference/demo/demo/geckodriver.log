@@ -1,0 +1,36 @@
+1543544701465	mozrunner::runner	INFO	Running command: "C:\\Users\\ladies\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ladies\\AppData\\Local\\Temp\\rust_mozprofile.3zuCW4whIfeN"
+1543544704814	Marionette	INFO	Listening on port 65306
+1543544704846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=26524_1439_21120_27914_26350_27245_22159&req=2&csor=4&pwd=sel&cb=jQuery110204397996641245162_1543544710289&_=1543544710294, line 1: TypeError: jQuery110204397996641245162_1543544710289 is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 5756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5756, Chro[Parent 6356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4384, Chrome_ChildThread] WARNI[Parent 6356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11724, Chrome_ChildThre1543545767873	Marionette	INFO	Stopped listening on port 65306
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:120:5
+
+[Child 22148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22148, ChrJavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+v
+
+um/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15596, Chrome_C
